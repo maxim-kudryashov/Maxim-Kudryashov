@@ -4,6 +4,8 @@ If you would like to reach me, here is my contact info:
 -Twitter:@BronchTree  
 -Gmail: treebronch.contact@gmail.com  
 
+Also go check out [astronaut594](https://github.com/astronaut594) & [astronaut594alt](https://github.com/astronaut594)
+
 Some very pog stats via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
