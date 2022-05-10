@@ -4,7 +4,7 @@ If you would like to reach me, here is my contact info:
 -Twitter:@BronchTree  
 -Gmail: treebronch.contact@gmail.com  
 
-Some very pog stats via [github-readme-stats]('https://github.com/anuraghazra/github-readme-stats')
+Some very pog stats via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![TreeBronch's GitHub stats](https://github-readme-stats.vercel.app/api?username=treebronch)](https://github.com/anuraghazra/github-readme-stats)
