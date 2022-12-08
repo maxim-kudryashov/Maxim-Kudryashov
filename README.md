@@ -1,5 +1,5 @@
 Hi, im @TreeBronch. I am interested in computer sciences, and game development.
-I am learning game design, c#, unity.
+Languages: Python, C#, C++, and small amounts of HTML/CSS/JS
 If you would like to reach me, here is my contact info:  
 -Twitter:@BronchTree  
 -Gmail: treebronch.contact@gmail.com  
