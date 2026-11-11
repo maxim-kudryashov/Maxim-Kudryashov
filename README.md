@@ -1,44 +1,13 @@
-<h1 align="center">Hi, I'm Maxim Kudryashov 👋</h1>
-<p align="center">
-  High School Junior focused on Applied AI, Data Science, and Engineering with a particular interest towards autonomous systems, robotics, and intelligent engineering
-</p>
+# Hi, I’m Maxim 👋
 
-<p align="center">
-</p>
+I’m into robotics and applied math, especially the parts where you have to make a good decision with imperfect information. I like problems where the first thing I try teaches me why the problem is harder than it looks.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square" alt="C#" />
-</p>
+## What I’m working on
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-</p>
+- **FRC Team 293** · I lead mechanical design and work on how our robot figures out where it is from AprilTags and aims while moving.
+- **Velvt** · I’m a cofounder and CTO. I’m building a privacy-focused macOS app that helps people understand how they work and test small changes to their routines.
 
----
+## A few public projects
 
-## About Me
-
-I'm a high school junior interested in applying AI and data science to solve real engineering problems, especially in autonomous robotics and mechanical systems.
-
-I'm particularly fascinated by autonomous systems that combine software, sensors, and engineering to understand their environment and act independently in dynamic settings.
-
-## Current Focus
-
-- Exploring the intersection of AI, robotics, data science, and engineering
-- Learning more about machine learning and reinforcement learning
-- Building toward projects in autonomous systems, robotics, and real-world engineering applications
-
-<!--
-## Goals
-???
-
-## Featured Projects
-## Achievements
-## Connect
--->
+- **[Distance & Devotion](https://github.com/kevzho/iu-indy-2026)** · A collaborative data visualization project exploring how travel distance relates to attendance at NCAA women’s basketball games.
+- **[ARCS](https://github.com/maxim-kudryashov/ARCS)** · A Python tool that classifies customer reviews by sentiment and uses embeddings to find reviews relevant to a topic.
